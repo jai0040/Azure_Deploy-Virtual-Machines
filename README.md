@@ -5,10 +5,10 @@
 <b>Following the steps you should follow</b>
 
 
-Step 1: Go to the Azure portal (https://portal.azure.com/). <br><br>
+Step 1: Go to the  [Azure portal](https://portal.azure.com/).<br><br>
 Step 2: Search Virtual Machines.<br><br>
 Step 3: Click on Create and select Azure Virtual Machine. <br>
-Note : You should have a valid subscription. <br><br>
+**Note :** You should have a valid subscription. <br><br>
 Step 4: Now click on "Resource Group." <br><br>
 Step 5: Create a resource group, or if you already created one, just select that. <br><br>
 Step 6: Then enter the name of the VM (virtual machine). <br><br>
